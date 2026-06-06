@@ -1,3 +1,3 @@
 # Piano Trainer
 
-[Web app link](piano-trainer.html)
+[Web app link](https://benwheatley.github.io/Piano-Trainer/piano-trainer.html)
